@@ -1,0 +1,8 @@
+[
+  { "id": "s1", "img": "assets/images/star.svg" },
+  { "id": "s2", "img": "assets/images/circle.svg" },
+  { "id": "s3", "img": "assets/images/square.svg" },
+  { "id": "s4", "img": "assets/images/triangle.svg" }
+]
+
+

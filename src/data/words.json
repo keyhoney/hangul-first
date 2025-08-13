@@ -1,0 +1,24 @@
+[
+  { "id": "w1",  "audioText": "사과",     "options": [{"img":"assets/images/circle.svg","correct":true},{"img":"assets/images/square.svg","correct":false},{"img":"assets/images/triangle.svg","correct":false}] },
+  { "id": "w2",  "audioText": "바나나",   "options": [{"img":"assets/images/square.svg","correct":true},{"img":"assets/images/triangle.svg","correct":false},{"img":"assets/images/star.svg","correct":false}] },
+  { "id": "w3",  "audioText": "포도",     "options": [{"img":"assets/images/triangle.svg","correct":true},{"img":"assets/images/circle.svg","correct":false},{"img":"assets/images/square.svg","correct":false}] },
+  { "id": "w4",  "audioText": "우유",     "options": [{"img":"assets/images/star.svg","correct":true},{"img":"assets/images/circle.svg","correct":false},{"img":"assets/images/square.svg","correct":false}] },
+  { "id": "w5",  "audioText": "물",       "options": [{"img":"assets/images/circle.svg","correct":true},{"img":"assets/images/star.svg","correct":false},{"img":"assets/images/triangle.svg","correct":false}] },
+  { "id": "w6",  "audioText": "빵",       "options": [{"img":"assets/images/square.svg","correct":true},{"img":"assets/images/circle.svg","correct":false},{"img":"assets/images/star.svg","correct":false}] },
+  { "id": "w7",  "audioText": "딸기",     "options": [{"img":"assets/images/star.svg","correct":true},{"img":"assets/images/circle.svg","correct":false},{"img":"assets/images/triangle.svg","correct":false}] },
+  { "id": "w8",  "audioText": "토마토",   "options": [{"img":"assets/images/circle.svg","correct":true},{"img":"assets/images/star.svg","correct":false},{"img":"assets/images/square.svg","correct":false}] },
+  { "id": "w9",  "audioText": "수박",     "options": [{"img":"assets/images/triangle.svg","correct":true},{"img":"assets/images/square.svg","correct":false},{"img":"assets/images/circle.svg","correct":false}] },
+  { "id": "w10", "audioText": "배",       "options": [{"img":"assets/images/square.svg","correct":true},{"img":"assets/images/triangle.svg","correct":false},{"img":"assets/images/star.svg","correct":false}] },
+  { "id": "w11", "audioText": "호랑이",   "options": [{"img":"assets/images/circle.svg","correct":true},{"img":"assets/images/triangle.svg","correct":false},{"img":"assets/images/star.svg","correct":false}] },
+  { "id": "w12", "audioText": "강아지",   "options": [{"img":"assets/images/triangle.svg","correct":true},{"img":"assets/images/square.svg","correct":false},{"img":"assets/images/circle.svg","correct":false}] },
+  { "id": "w13", "audioText": "고양이",   "options": [{"img":"assets/images/star.svg","correct":true},{"img":"assets/images/circle.svg","correct":false},{"img":"assets/images/square.svg","correct":false}] },
+  { "id": "w14", "audioText": "사자",     "options": [{"img":"assets/images/circle.svg","correct":true},{"img":"assets/images/square.svg","correct":false},{"img":"assets/images/triangle.svg","correct":false}] },
+  { "id": "w15", "audioText": "컵",       "options": [{"img":"assets/images/triangle.svg","correct":true},{"img":"assets/images/star.svg","correct":false},{"img":"assets/images/circle.svg","correct":false}] },
+  { "id": "w16", "audioText": "책",       "options": [{"img":"assets/images/square.svg","correct":true},{"img":"assets/images/circle.svg","correct":false},{"img":"assets/images/star.svg","correct":false}] },
+  { "id": "w17", "audioText": "문",       "options": [{"img":"assets/images/star.svg","correct":true},{"img":"assets/images/triangle.svg","correct":false},{"img":"assets/images/square.svg","correct":false}] },
+  { "id": "w18", "audioText": "의자",     "options": [{"img":"assets/images/circle.svg","correct":true},{"img":"assets/images/square.svg","correct":false},{"img":"assets/images/triangle.svg","correct":false}] },
+  { "id": "w19", "audioText": "탁자",     "options": [{"img":"assets/images/triangle.svg","correct":true},{"img":"assets/images/circle.svg","correct":false},{"img":"assets/images/star.svg","correct":false}] },
+  { "id": "w20", "audioText": "냉장고",   "options": [{"img":"assets/images/square.svg","correct":true},{"img":"assets/images/triangle.svg","correct":false},{"img":"assets/images/circle.svg","correct":false}] }
+]
+
+

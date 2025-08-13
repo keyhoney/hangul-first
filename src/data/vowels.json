@@ -1,0 +1,24 @@
+[
+  { "id": "v1",  "sound": "ㅏ", "choices": ["ㅏ", "ㅓ", "ㅣ"], "hintImage": "assets/images/circle.svg" },
+  { "id": "v2",  "sound": "ㅓ", "choices": ["ㅓ", "ㅡ", "ㅗ"], "hintImage": "assets/images/square.svg" },
+  { "id": "v3",  "sound": "ㅗ", "choices": ["ㅗ", "ㅜ", "ㅏ"], "hintImage": "assets/images/triangle.svg" },
+  { "id": "v4",  "sound": "ㅜ", "choices": ["ㅜ", "ㅣ", "ㅡ"], "hintImage": "assets/images/star.svg" },
+  { "id": "v5",  "sound": "ㅡ", "choices": ["ㅡ", "ㅓ", "ㅗ"], "hintImage": "assets/images/circle.svg" },
+  { "id": "v6",  "sound": "ㅣ", "choices": ["ㅣ", "ㅏ", "ㅜ"], "hintImage": "assets/images/square.svg" },
+  { "id": "v7",  "sound": "ㅏ", "choices": ["ㅏ", "ㅗ", "ㅡ"], "hintImage": "assets/images/triangle.svg" },
+  { "id": "v8",  "sound": "ㅓ", "choices": ["ㅓ", "ㅣ", "ㅜ"], "hintImage": "assets/images/star.svg" },
+  { "id": "v9",  "sound": "ㅗ", "choices": ["ㅗ", "ㅏ", "ㅣ"], "hintImage": "assets/images/circle.svg" },
+  { "id": "v10", "sound": "ㅜ", "choices": ["ㅜ", "ㅡ", "ㅗ"], "hintImage": "assets/images/square.svg" },
+  { "id": "v11", "sound": "ㅡ", "choices": ["ㅡ", "ㅓ", "ㅣ"], "hintImage": "assets/images/triangle.svg" },
+  { "id": "v12", "sound": "ㅣ", "choices": ["ㅣ", "ㅜ", "ㅏ"], "hintImage": "assets/images/star.svg" },
+  { "id": "v13", "sound": "ㅏ", "choices": ["ㅏ", "ㅓ", "ㅗ"], "hintImage": "assets/images/circle.svg" },
+  { "id": "v14", "sound": "ㅓ", "choices": ["ㅓ", "ㅡ", "ㅣ"], "hintImage": "assets/images/square.svg" },
+  { "id": "v15", "sound": "ㅗ", "choices": ["ㅗ", "ㅏ", "ㅡ"], "hintImage": "assets/images/triangle.svg" },
+  { "id": "v16", "sound": "ㅜ", "choices": ["ㅜ", "ㅗ", "ㅣ"], "hintImage": "assets/images/star.svg" },
+  { "id": "v17", "sound": "ㅡ", "choices": ["ㅡ", "ㅜ", "ㅏ"], "hintImage": "assets/images/circle.svg" },
+  { "id": "v18", "sound": "ㅣ", "choices": ["ㅣ", "ㅗ", "ㅓ"], "hintImage": "assets/images/square.svg" },
+  { "id": "v19", "sound": "ㅏ", "choices": ["ㅏ", "ㅣ", "ㅡ"], "hintImage": "assets/images/triangle.svg" },
+  { "id": "v20", "sound": "ㅓ", "choices": ["ㅓ", "ㅗ", "ㅜ"], "hintImage": "assets/images/star.svg" }
+]
+
+
